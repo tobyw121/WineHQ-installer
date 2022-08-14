@@ -13,7 +13,7 @@
 * `git clone https://github.com/tobyw121/WineHQ-installer`
 * `cd WineHQ-installer`
 * `git branch -a`
-* `git checkout "YOU DISTRO `
+* `git checkout "Name from Github Branches" `
 * `sudo chmod 777 Wine.sh`
 * `./Wine.sh`
 #
