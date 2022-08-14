@@ -13,7 +13,7 @@
 * `git clone https://github.com/tobyw121/WineHQ-installer`
 * `cd WineHQ-installer`
 * `git branch -a`
-* `git checkout Jammy-Jellyfish-22.04-LTS
+* `git checkout Jammy-Jellyfish-22.04-LTS `
 * `sudo chmod 777 Wine.sh`
 * `./Wine.sh`
 #
