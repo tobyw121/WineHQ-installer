@@ -3,7 +3,7 @@
 
 #
 # Works with:
-* `Ubuntu 22.04 LTS (Jammy Jellyfish)`= `Linux Mint 21`
+* `Ubuntu 22.10 LTS (Kinetic Kudu)`= `Linux Mint 21`
 #
  How to use ?
  
@@ -15,7 +15,7 @@
 * `git clone https://github.com/tobyw121/WineHQ-installer`
 * `cd WineHQ-installer`
 * `git branch -a`
-* `git checkout Jammy-Jellyfish-22.04-LTS `
+* `git checkout Kinetic-Kudu-Ubuntu-22.10 `
 * `sudo chmod 777 Wine.sh`
 * `./Wine.sh`
 #
