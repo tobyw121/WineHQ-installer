@@ -14,6 +14,6 @@ sudo apt update
 
 sudo apt-get install -f
 
-sudo apt install --install-recommends winehq-staging
+sudo apt install --install-recommends winehq-stable
 
 echo "WineHQ Installed"
