@@ -8,7 +8,7 @@
  How to use ?
  
  simple Method:
-* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/WineHQ-installer/Jammy-Jellyfish-22.04-LTS/Wine.sh)"`
+* `bash -c "$(curl -fsSL https://github.com/tobyw121/WineHQ-installer/blob/Kinetic-Kudu-Ubuntu-22.10/Wine.sh)"`
 
  cumbersome Method :
 * `sudo apt install git`
