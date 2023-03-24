@@ -7,6 +7,7 @@
 * `Ubuntu 20.04 LTS (Focal Fossa)` =`Linux Mint 20.x `
 * `Ubuntu 21.10 (Impish Indri)`
 * `Ubuntu 22.04 LTS (Jammy Jellyfish)`= `Linux Mint 21`
+* `Ubuntu 22.10 (Kinetic Kudu)`
 #
  How to use ?
   simple Method:
@@ -22,6 +23,9 @@
 
  for Ubuntu 22.04-LTS :
 * `bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/WineHQ-installer/Jammy-Jellyfish-22.04-LTS/Wine.sh)"`
+
+for Ubuntu 22.10 :
+* `bash -c "$(curl -fsSL https://github.com/tobyw121/WineHQ-installer/blob/Kinetic-Kudu-Ubuntu-22.10/Wine.sh)"`
 
  cumbersome Method :
 * `sudo apt install git`
