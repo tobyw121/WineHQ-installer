@@ -9,6 +9,7 @@
 * `Ubuntu 22.04 LTS (Jammy Jellyfish)`= `Linux Mint 21`
 * `Ubuntu 22.10 (Kinetic Kudu)`
 * `Ubuntu 23.04 (Lunar Lobster)`
+* `Ubuntu 24.04 (Noble)`
 #
  How to use ?
   simple Method:
