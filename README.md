@@ -7,9 +7,9 @@
 * `Ubuntu 20.04 LTS (Focal Fossa)` =`Linux Mint 20.x `
 * `Ubuntu 21.10 (Impish Indri)`
 * `Ubuntu 22.04 LTS (Jammy Jellyfish)`= `Linux Mint 21`
-* `Ubuntu 22.10 (Kinetic Kudu)`
-* `Ubuntu 23.04 (Lunar Lobster)`
-* `Ubuntu 24.04 (Noble)`
+* `Ubuntu 22.10 (Kinetic Kudu)` = `Linux Mint 21`
+* `Ubuntu 23.04 (Lunar Lobster)` = `Linux Mint 21`
+* `Ubuntu 24.04 (Noble)` = =`Linux Mint 22 `
 #
  How to use ?
   simple Method:
